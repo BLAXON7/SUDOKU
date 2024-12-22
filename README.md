@@ -1,5 +1,3 @@
-# SUDOKU
-
 Sukodu Game Made In Assembly Landuage 16-bit Version With Graphics Interrupt Mode.
 ----------------------------------------------------------------------------------
 Instructions to execute:
