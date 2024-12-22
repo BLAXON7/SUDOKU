@@ -9,7 +9,7 @@ Instructions to execute:<br>
 Instructions to play:<br>
 .On Logo Screen any press any button to continue.<br>
 .On Menu: 1-3 for difficulties and 4 for Exit.<br>
-Ingame:<br>
+*Ingame:*<br>
 .You have to move the cursor with the arrow keys.<br>
 .The position where you want to place the number.Move over that position and press 1-9.<br>
 .You have 3 mistakes option so choose wisely.<br>
