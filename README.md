@@ -1,6 +1,6 @@
 Sukodu Game Made In Assembly Landuage 16-bit Version With Graphics Interrupt Mode.<br>
-----------------------------------------------------------------------------------
-Instructions to execute:
+----------------------------------------------------------------------------------<br>
+Instructions to execute:<br>
 1.Copy all files into the same folder where dosbox can access the files.
 2.Exectute the GAME.asm file on nasm-configured cmd with the command  ---> nasm game.asm -o game.com -l game.lst
 3.Make sure to open the GAME.asm file and change the file paths of the included other files.
